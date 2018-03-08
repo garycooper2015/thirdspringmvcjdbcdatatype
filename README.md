@@ -1,0 +1,2 @@
+# thirdspringmvcjdbcdatatype
+springmvc,校验,日期控件,sql插入各种数据类型,bootstrapValidator,My97DatePicker,Bootstrap,validation
