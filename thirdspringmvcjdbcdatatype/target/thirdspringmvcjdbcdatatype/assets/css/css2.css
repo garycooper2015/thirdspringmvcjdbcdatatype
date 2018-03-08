@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+	padding-top: 40px;
+	background-color: #EEEEEE;
+}
+
+.ch1{
+	margin-bottom: 20px;
+/*	border: 1px solid red;*/
+}
+
+a{text-decoration: none;}
